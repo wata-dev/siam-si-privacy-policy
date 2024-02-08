@@ -1,0 +1,3 @@
+Privacy Policy for Siam Si App
+
+This application does not collect or store any personal data. It is an offline game (such as noughts and crosses) that doesn’t require any user account. The app only stores the game state on the user’s device and does not transfer data anywhere. Please note that if you installed this application from Google Play, Google Play itself may collect some personal data.
